@@ -1,3 +1,3 @@
 function hello() {
-  return "Hello Shanks!";
+  return "Hello Emperor Shanks!";
 }
